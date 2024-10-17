@@ -1,0 +1,7 @@
+os
+streamlit
+cv2
+face_recognition
+numpy
+PIL
+pickle
