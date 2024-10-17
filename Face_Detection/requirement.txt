@@ -1,7 +1,5 @@
-os
 streamlit
 opencv-python
 face_recognition
 numpy
-PIL
-pickle
+Pillow
