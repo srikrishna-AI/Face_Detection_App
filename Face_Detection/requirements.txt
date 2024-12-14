@@ -2,7 +2,6 @@ streamlit
 opencv-python
 face_recognition
 numpy
-Pillow
-pickle
+pillow>=7.0.0,<9.0.0 
 cmake
 dlib
