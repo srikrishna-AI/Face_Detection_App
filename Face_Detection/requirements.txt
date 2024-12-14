@@ -4,5 +4,4 @@ face_recognition
 numpy
 pillow>=7.0.0,<9.0.0 
 cmake
-dlib
-zlib
+dlib==19.24.0
