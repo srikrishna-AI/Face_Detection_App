@@ -1,6 +1,9 @@
 streamlit
-opencv-python
+opencv-python-headless
 face-recognition
 dlib
 Pillow
-numpy
+numpy<2
+setuptools<70
+streamlit-webrtc
+av

@@ -1,0 +1,5 @@
+cmake
+build-essential
+libgirepository1.0-dev
+libgl1-mesa-glx
+libglib2.0-0
